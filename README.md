@@ -1,4 +1,4 @@
 
-# my-first-project
+# blog-project
 
-練習用プロジェクト
+Blog 用
